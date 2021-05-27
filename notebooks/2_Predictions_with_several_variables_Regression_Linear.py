@@ -58,3 +58,6 @@ predictions = model.predict(X)
  
 print_model = model.summary()
 print(print_model)
+
+
+# More exemples https://www.aprendemachinelearning.com/regresion-lineal-en-espanol-con-python/
